@@ -1,0 +1,13 @@
+6
+P
+L 500
+P
+S 9000
+P
+P 
+3
+G David
+C John
+T Fred
+6
+3 3 2 3 1 3
